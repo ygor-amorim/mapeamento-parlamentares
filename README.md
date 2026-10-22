@@ -46,7 +46,7 @@ Os arquivos brutos ficam em `.cache/` (ignorado pelo git). Uma GitHub Action (`.
 Na aba de parlamentares da planilha de trabalho:
 
 ```
-=IMPORTDATA("https://raw.githubusercontent.com/<usuario>/<repo>/main/data/parlamentares.csv")
+=IMPORTDATA("https://raw.githubusercontent.com/ygor-amorim/mapeamento-parlamentares/main/data/parlamentares.csv")
 ```
 
 As avaliações, interações e contatos ficam **só na planilha**, nunca neste repositório.
